@@ -41,7 +41,7 @@ p {
   height: 300px;
   width: 300px;
   margin: 30px;
-
+  margin-bottom: 0px;
   float: left;
   background-color: white;
 }
@@ -50,17 +50,20 @@ p {
   height: 50%;
   width: 100%;
   background-color: #b2fbff;
+
 }
 
 .categoryleft {
   height: 100%;
   width: 35%;
-  background-color: silver;
   float: left;
+  background-color: silver;
+  
 }
 
 .categoryright {
   height: 100%;
-  width: 64%;
+  width: 65%;
+ float: left;
   background-color: green;
 }
