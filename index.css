@@ -57,13 +57,27 @@ p {
   height: 100%;
   width: 35%;
   float: left;
-  background-color: silver;
-  
+  background-color: #FFEB50; 
+  text-align: center;
 }
-
 .categoryright {
   height: 100%;
   width: 65%;
- float: left;
-  background-color: green;
+  float: left;
+  background-color: #F9DB0F;
+}
+
+.categoryrightChild{
+  height: 150px;
+  width: 150px;
+  margin: 15px 40px;
+  margin-left: 50px;
+  float: left;
+  background-color: white;
+}
+
+footer{
+  height: 30%;
+  width: 100%;
+  background-color: #00c9fc;
 }
