@@ -9,6 +9,49 @@ header {
   background-color: #00c9fc;
 }
 
+#logo{
+  height: 100%;
+  width: 25%;
+  float: left;
+}
+
+#logoimage{
+  height: 100%;
+  width: 40%;
+  background-color: red;
+  float: left;
+}
+
+#projectname{
+  height: 100%;
+  width: 60%;
+  background-color: blue;
+  float: left;
+}
+
+#navbar{
+  height: 100%;
+  width: 50%;
+  float: left;
+}
+
+ul{
+  list-style: none;
+  text-align: center;
+}
+
+li{
+  display: inline-block;
+  margin: 25px;
+  margin-left: 50px;
+}
+#loginregister{
+  height: 100%;
+  width: 25%;
+  float: left;
+  background-color: red;
+}
+
 .slider {
   height: 30%;
   width: 100%;
